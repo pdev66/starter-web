@@ -1,0 +1,1 @@
+Make it clear that graph does not pass through origin. Show the y-intercept.
