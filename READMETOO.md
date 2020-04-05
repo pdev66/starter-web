@@ -13,3 +13,6 @@ This is an example.
 Some more text.
 
 ## How To...
+
+### Copyright
+This is copyright.
